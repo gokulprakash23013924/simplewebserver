@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:14-4-24
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -22,7 +22,7 @@ Testing the webserver.
 
 ## PROGRAM:
 from http.server import HTTPServer,BaseHTTPRequestHandler
-
+```
 content='''
 <!doctype html>
 <html>
@@ -85,9 +85,12 @@ print("This is my webserver")
 server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
-
+```
 ## OUTPUT:
-![alt text](image.png)
+![2024-03-14](https://github.com/gokulprakash23013924/simplewebserver/assets/150231472/8a20bfda-cc81-4b7a-872a-604395bf7428)
+
+![Screenshot 2024-03-14 140942](https://github.com/gokulprakash23013924/simplewebserver/assets/150231472/dedd898c-e20f-4684-bab2-3bf9046ad37d)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
