@@ -39,34 +39,29 @@ content='''
 </tr>
 
 <tr>
-<td> Micro Soft</td>
+<td>TCS</td>
 <td> $86.6</td>
 <td> 2014</td>
 </tr>
 <tr>
-<td> tesla</td>
+<td>HCL</td>
 <td> $31.51</td>
 <td> 2017</td>
 </tr>
 <tr>
-<td> apple inc</td>
+<td> HP</td>
 <td> $345</td>
 <td> 2018</td>
 </tr>
 <tr>
-<td> tata</td>
+<td> RIL</td>
 <td> $295</td>
 <td> 2019</td>
 </tr>
 <tr>
-<td> walmart</td>
+<td>OYO</td>
 <td> $135</td>
 <td> 2019</td>
-</tr>
-<tr>
-<td> Amazon.com Inc.</td>
-<td> $386.6</td>
-<td> 2014</td>
 </tr>
 </table>
 </body>
@@ -89,7 +84,8 @@ httpd.serve_forever()
 ## OUTPUT:
 ![2024-03-14](https://github.com/gokulprakash23013924/simplewebserver/assets/150231472/8a20bfda-cc81-4b7a-872a-604395bf7428)
 
-![Screenshot 2024-03-14 140942](https://github.com/gokulprakash23013924/simplewebserver/assets/150231472/dedd898c-e20f-4684-bab2-3bf9046ad37d)
+![926fabad-138a-4cce-a1c0-4e433c9bceed](https://github.com/gokulprakash23013924/simplewebserver/assets/150231472/c23bb013-0737-4ed0-b633-7902f997ed0a)
+
 
 
 ## RESULT:
